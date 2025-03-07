@@ -23,5 +23,17 @@
     "name": "AI",
     "url": "/n/ai",
     "external": false
-  }
+  },
+  {
+    "name": "Реакт компоненты shadcn",
+    "url": "https://ui.shadcn.com/",
+    "external": true
+  },
+  {
+    "name": "Реакт компоненты aceternity",
+    "url": "http://ui.aceternity.com/",
+    "external": true
+  },
+
+  
 ]
